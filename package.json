@@ -1,0 +1,21 @@
+{
+  "name": "soft-flat-ui-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Flat UI inspired theme with non-aggressive colors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "flat-ui",
+    "flat",
+    "designmodo",
+    "non-aggressive",
+    "soft",
+    "clean"
+  ],
+  "repository": "https://github.com/atom/soft-flat-ui-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
