@@ -13,7 +13,7 @@
     "soft",
     "clean"
   ],
-  "repository": "https://github.com/atom/soft-flat-ui-syntax",
+  "repository": "https://github.com/sebj54/soft-flat-ui-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
